@@ -1,0 +1,16 @@
+{
+  "name": "MockArchitect",
+  "short_name": "MockArchitect",
+  "description": "Design and build test mocks that actually match production behavior",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf5ff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
